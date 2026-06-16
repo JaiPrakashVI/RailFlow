@@ -88,9 +88,3 @@ Train_scheduler/
    npm run dev
    ```
    The dashboard will be available at `http://localhost:5173`.
-
----
-
-## License
-
-MIT License.
