@@ -1,0 +1,50 @@
+[
+  {
+    "id": "TR01",
+    "from": "S01",
+    "to": "S02",
+    "distance": 130,
+    "speed_limit": 130,
+    "single_line": false
+  },
+  {
+    "id": "TR02",
+    "from": "S02",
+    "to": "S03",
+    "distance": 84,
+    "speed_limit": 110,
+    "single_line": false
+  },
+  {
+    "id": "TR03",
+    "from": "S03",
+    "to": "S04",
+    "distance": 120,
+    "speed_limit": 110,
+    "single_line": false
+  },
+  {
+    "id": "TR04",
+    "from": "S04",
+    "to": "S05",
+    "distance": 60,
+    "speed_limit": 110,
+    "single_line": false
+  },
+  {
+    "id": "TR05",
+    "from": "S05",
+    "to": "S06",
+    "distance": 50,
+    "speed_limit": 110,
+    "single_line": false
+  },
+  {
+    "id": "TR06",
+    "from": "S06",
+    "to": "S07",
+    "distance": 50,
+    "speed_limit": 110,
+    "single_line": false
+  }
+]

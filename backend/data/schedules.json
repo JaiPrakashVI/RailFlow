@@ -1,0 +1,52 @@
+[
+  {
+    "id": "12243",
+    "name": "Shatabdi Express",
+    "type": "Shatabdi",
+    "speed": 110,
+    "stops": [
+      {
+        "station_id": "S01",
+        "arr": null,
+        "dep": "07:10",
+        "platform": 5
+      },
+      {
+        "station_id": "S02",
+        "arr": "08:48",
+        "dep": "08:50",
+        "platform": 2
+      },
+      {
+        "station_id": "S03",
+        "arr": "09:58",
+        "dep": "10:00",
+        "platform": 2
+      },
+      {
+        "station_id": "S04",
+        "arr": "11:28",
+        "dep": "11:30",
+        "platform": 3
+      },
+      {
+        "station_id": "S05",
+        "arr": "12:22",
+        "dep": "12:25",
+        "platform": 1
+      },
+      {
+        "station_id": "S06",
+        "arr": "13:08",
+        "dep": "13:10",
+        "platform": 1
+      },
+      {
+        "station_id": "S07",
+        "arr": "14:15",
+        "dep": null,
+        "platform": 4
+      }
+    ]
+  }
+]
