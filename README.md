@@ -1,5 +1,8 @@
 # RailFlow: Railway Dispatching & Telemetry Digital Twin
 
+Contributers : 1. https://github.com/idhayathulla-dev
+               2. https://github.com/JaiPrakashVI
+
 RailFlow is a real-time railway simulation, scheduling optimization, and delay prediction dashboard. It simulates train movement along a station network, checks for platform/track conflicts, runs mathematical optimization models to resolve scheduling clashes, and predicts delay propagation under various operational conditions.
 
 ## Project Structure
